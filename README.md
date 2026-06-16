@@ -13,8 +13,8 @@ Paleta completa usada na página:
 | **Amber** | ![#FF5733](https://placehold.co/15x15/d97706/d97706/png) `#d97706` | Cor de destaque — badges de warning |
 | **Amber Light** | ![#FF5733](https://placehold.co/15x15/fef3c7/fef3c7/png) `#fef3c7` | Fundos suaves amber |
 | **Ink** | ![#FF5733](https://placehold.co/15x15/1a1a2e/1a1a2e/png) `#1a1a2e` | Fundo hero, fundo stat cards, texto principal |
-| **Ink 2** | `#2e2e4a` | Variação escura secundária |
-| **Mist** | `#f7f6f3` | Fundo geral da página (off-white quente) |
+| **Ink 2** | ![#FF5733](https://placehold.co/15x15/2e2e4a/2e2e4a/png) `#2e2e4a` | Variação escura secundária |
+| **Mist** | ![#FF5733](https://placehold.co/15x15/f7f6f3/f7f6f3/png) `#f7f6f3` | Fundo geral da página (off-white quente) |
 | **Text 2** | `#4a4a6a` | Texto de corpo/parágrafos |
 | **Text 3** | `#8888aa` | Texto auxiliar, labels de tabela |
 
