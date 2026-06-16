@@ -10,9 +10,9 @@ Paleta completa usada na página:
 | **Rose Light** | ![#FF5733](https://placehold.co/15x15/fce8eb/fce8eb/png) `#fce8eb` | Fundos suaves de badges e highlights de tabela |
 | **Teal** | ![#FF5733](https://placehold.co/15x15/2d7a7a/2d7a7a/png) `#2d7a7a` | Cor secundária — links, dots alternativos |
 | **Teal Light** | ![#FF5733](https://placehold.co/15x15/e0f2f2/e0f2f2/png) `#e0f2f2` | Fundos suaves teal |
-| **Amber** | `#d97706` | Cor de destaque — badges de warning |
-| **Amber Light** | `#fef3c7` | Fundos suaves amber |
-| **Ink** | `#1a1a2e` | Fundo hero, fundo stat cards, texto principal |
+| **Amber** | ![#FF5733](https://placehold.co/15x15/d97706/d97706/png) `#d97706` | Cor de destaque — badges de warning |
+| **Amber Light** | ![#FF5733](https://placehold.co/15x15/fef3c7/fef3c7/png) `#fef3c7` | Fundos suaves amber |
+| **Ink** | ![#FF5733](https://placehold.co/15x15/1a1a2e/1a1a2e/png) `#1a1a2e` | Fundo hero, fundo stat cards, texto principal |
 | **Ink 2** | `#2e2e4a` | Variação escura secundária |
 | **Mist** | `#f7f6f3` | Fundo geral da página (off-white quente) |
 | **Text 2** | `#4a4a6a` | Texto de corpo/parágrafos |
