@@ -15,10 +15,10 @@ Paleta completa usada na página:
 | **Ink** | ![#FF5733](https://placehold.co/15x15/1a1a2e/1a1a2e/png) `#1a1a2e` | Fundo hero, fundo stat cards, texto principal |
 | **Ink 2** | ![#FF5733](https://placehold.co/15x15/2e2e4a/2e2e4a/png) `#2e2e4a` | Variação escura secundária |
 | **Mist** | ![#FF5733](https://placehold.co/15x15/f7f6f3/f7f6f3/png) `#f7f6f3` | Fundo geral da página (off-white quente) |
-| **Text 2** | `#4a4a6a` | Texto de corpo/parágrafos |
-| **Text 3** | `#8888aa` | Texto auxiliar, labels de tabela |
+| **Text 2** | ![#FF5733](https://placehold.co/15x15/4a4a6a/4a4a6a/png) `#4a4a6a` | Texto de corpo/parágrafos |
+| **Text 3** | ![#FF5733](https://placehold.co/15x15/8888aa/8888aa/png) `#8888aa` | Texto auxiliar, labels de tabela |
 
 **Acentos no hero (inline):**
-- Teal claro: `#5dd6d6` — valores teal no card do hero
-- Lilás: `#a78bfa` — valor de "98% hospital" no card
-- Amarelo: `#fbbf24` — valor amber no card do hero
+- Teal claro: ![#FF5733](https://placehold.co/15x15/5dd6d6/5dd6d6/png) `#5dd6d6` — valores teal no card do hero
+- Lilás: ![#FF5733](https://placehold.co/15x15/a78bfa/a78bfa/png) `#a78bfa` — valor de "98% hospital" no card
+- Amarelo: ![#FF5733](https://placehold.co/15x15/fbbf24/fbbf24/png) `#fbbf24` — valor amber no card do hero
