@@ -22,5 +22,3 @@ Paleta completa usada na página:
 - Teal claro: `#5dd6d6` — valores teal no card do hero
 - Lilás: `#a78bfa` — valor de "98% hospital" no card
 - Amarelo: `#fbbf24` — valor amber no card do hero
-
-![#FF5733](https://placehold.co/15x15/e8546a/e8546a/png) `#e8546a`
