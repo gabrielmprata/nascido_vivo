@@ -16,7 +16,7 @@ https://gabrielmprata.github.io/nascido_vivo/
 - Efeitos modernos como `backdrop-filter: blur()` na navbar (efeito vidro/glassmorphism).
 
 ### Gráficos / Dados
-- **[Chart.js](https://www.chartjs.org/) v4.4.1** (via CDN cdnjs) — usado para renderizar múltiplos gráficos (pelo menos 9 instâncias de `new Chart(...)`).
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/> usado para renderizar múltiplos gráficos (pelo menos 9 instâncias de `new Chart(...)`).
 - Plugin **[chartjs-plugin-datalabels](https://chartjs-plugin-datalabels.netlify.app/) v2.2.0** — para mostrar rótulos de dados diretamente nos gráficos.
 
 ### JavaScript
