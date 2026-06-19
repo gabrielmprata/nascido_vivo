@@ -1,6 +1,8 @@
 
 https://gabrielmprata.github.io/nascido_vivo/
 
+# 🎨 UI/UX
+
 Paleta completa usada na página:
 
 | Nome | Hex | Uso |
