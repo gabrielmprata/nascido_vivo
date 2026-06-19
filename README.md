@@ -4,7 +4,7 @@ Página estática construída para o GitHub Pages, explorando dados do **SINASC*
 
 https://gabrielmprata.github.io/nascido_vivo/
 
-<img width="800" height="480" alt="nascidos_vivos" src="https://github.com/user-attachments/assets/08f6921d-6ed7-4b95-bfc3-0ff75cb1620b" />
+<img width="640" height="480" alt="nascidos_vivos" src="https://github.com/user-attachments/assets/08f6921d-6ed7-4b95-bfc3-0ff75cb1620b" />
 
 
 ## 🛠️ Tecnologias
