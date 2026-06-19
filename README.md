@@ -7,7 +7,8 @@ https://gabrielmprata.github.io/nascido_vivo/
 ## 🛠️ Tecnologias
 
 ### Estrutura
-- **HTML5** puro, em um único arquivo (`index.html`) — sem build, sem framework de componentes. Ideal pra GitHub Pages porque pode ser publicado direto.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> em um único arquivo (`index.html`) — sem build, sem framework de componentes. Ideal pra GitHub Pages porque pode ser publicado direto.
 
 ### Estilo
 - **CSS puro** (sem Tailwind/Bootstrap), com variáveis CSS (`:root`) definindo uma paleta de design tokens (rose, teal, amber, ink, mist) — abordagem de "design system" simples.
