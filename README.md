@@ -2,6 +2,8 @@
 
 Página estática construída para o GitHub Pages, explorando dados do **SINASC** (Sistema de Informações sobre Nascidos Vivos) de 2023.
 
+https://gabrielmprata.github.io/nascido_vivo/
+
 ## 🛠️ Tecnologias
 
 ### Estrutura
@@ -22,10 +24,7 @@ Página estática construída para o GitHub Pages, explorando dados do **SINASC*
 ### Conteúdo
 - Dados sobre como os brasileiros nascem, com base no **SINASC 2023**.
 
-
-https://gabrielmprata.github.io/nascido_vivo/
-
-# 🎨 UI/UX
+## 🎨 UI/UX
 
 Paleta completa usada na página:
 
