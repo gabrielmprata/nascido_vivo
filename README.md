@@ -11,7 +11,7 @@ https://gabrielmprata.github.io/nascido_vivo/
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> em um único arquivo (`index.html`) — sem build, sem framework de componentes. Ideal pra GitHub Pages porque pode ser publicado direto.
 
 ### Estilo
-- **CSS puro** (sem Tailwind/Bootstrap), com variáveis CSS (`:root`) definindo uma paleta de design tokens (rose, teal, amber, ink, mist) — abordagem de "design system" simples.
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> definindo uma paleta de design tokens (rose, teal, amber, ink, mist).
 - Fontes do **Google Fonts**: **Playfair Display** (serifada, para títulos), **Inter** (sans-serif, para texto) e **JetBrains Mono** (monoespaçada, para labels/dados).
 - Efeitos modernos como `backdrop-filter: blur()` na navbar (efeito vidro/glassmorphism).
 
