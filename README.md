@@ -1,3 +1,27 @@
+# Como os Brasileiros Chegam ao Mundo · SINASC 2023
+
+Página estática construída para o GitHub Pages, explorando dados do **SINASC** (Sistema de Informações sobre Nascidos Vivos) de 2023.
+
+## 🛠️ Tecnologias
+
+### Estrutura
+- **HTML5** puro, em um único arquivo (`index.html`) — sem build, sem framework de componentes. Ideal pra GitHub Pages porque pode ser publicado direto.
+
+### Estilo
+- **CSS puro** (sem Tailwind/Bootstrap), com variáveis CSS (`:root`) definindo uma paleta de design tokens (rose, teal, amber, ink, mist) — abordagem de "design system" simples.
+- Fontes do **Google Fonts**: **Playfair Display** (serifada, para títulos), **Inter** (sans-serif, para texto) e **JetBrains Mono** (monoespaçada, para labels/dados).
+- Efeitos modernos como `backdrop-filter: blur()` na navbar (efeito vidro/glassmorphism).
+
+### Gráficos / Dados
+- **[Chart.js](https://www.chartjs.org/) v4.4.1** (via CDN cdnjs) — usado para renderizar múltiplos gráficos (pelo menos 9 instâncias de `new Chart(...)`).
+- Plugin **[chartjs-plugin-datalabels](https://chartjs-plugin-datalabels.netlify.app/) v2.2.0** — para mostrar rótulos de dados diretamente nos gráficos.
+
+### JavaScript
+- **JS vanilla** (sem React/Vue), com um bloco `<script>` controlando a lógica de inicialização dos gráficos.
+
+### Conteúdo
+- Dados sobre como os brasileiros nascem, com base no **SINASC 2023**.
+
 
 https://gabrielmprata.github.io/nascido_vivo/
 
