@@ -20,7 +20,7 @@ https://gabrielmprata.github.io/nascido_vivo/
 - Plugin **[chartjs-plugin-datalabels](https://chartjs-plugin-datalabels.netlify.app/) v2.2.0** — para mostrar rótulos de dados diretamente nos gráficos.
 
 ### JavaScript
-- **JS vanilla** (sem React/Vue), com um bloco `<script>` controlando a lógica de inicialização dos gráficos.
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> com um bloco `<script>` controlando a lógica de inicialização dos gráficos.
 
 ### Conteúdo
 - Dados sobre como os brasileiros nascem, com base no **SINASC 2023**.
