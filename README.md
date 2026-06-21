@@ -53,3 +53,5 @@ Paleta completa usada na página:
 
 # 👨‍💼💻 Author 
 Gabriel Prata
+
+Built with Data, Analytics & Coffee
